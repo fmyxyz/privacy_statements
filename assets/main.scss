@@ -1,0 +1,14 @@
+---
+---
+@import "minima";
+
+/* 选项 A：只隐藏导航菜单（保留左上角的网站标题） */
+.site-nav {
+  display: none !important;
+}
+
+/* 选项 B：隐藏整个头部区域（包括网站标题和导航） */
+
+.site-header {
+  display: none !important;
+}
